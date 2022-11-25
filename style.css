@@ -1,0 +1,39 @@
+*
+{
+    margin: 0px;
+    padding:0px ;
+    box-sizing: border-box;
+}
+body .row
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav a
+{
+    font-size: .8rem;
+}
+
+@media screen and (max-width: 765px) {
+    .col-2 {
+     display: none;
+    }
+    
+}
+/* ==============================main=================== */
+.main p
+{
+ font-size:.8em;
+}
+ p:hover    
+{
+    color:red;
+}
+.fa-regular
+{
+    background-color: red;
+}
+.footer
+{
+    background-color: black;
+}
